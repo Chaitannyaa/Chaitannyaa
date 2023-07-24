@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [Hashnode/My-Cloud & DevOps-Articles](https://chaitannyaa.hashnode.dev/)
 
-- 📫 How to reach me [chaitannyaagaikwad@gmail.com]
+- 📫 Drop a mail at [chaitannyaagaikwad@gmail.com]
 
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=3000&color=F7448EFF&center=true&vCenter=true&width=1200&height=60&lines=Connect+With+A+Budding+Cloud+DevOps+Engineer+From+India" alt="Typing SVG" /></a></h1>
 
