@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/chaitannyaa-gaikwad-b16965115/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="chaitannyaa gaikwad" height="45" width="50" /></a>
 <a href="https://twitter.com/chaitannyaa2" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="chaitannyaa2" height="40" width="50" /></a>
-<a href="https://hashnode.com/@chaitannyaa" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="@chaitannyaa" height="45" width="50" /></a>
+<a href="https://hashnode.com/@chaitannyaa" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="@Chaitannyaa" height="45" width="50" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h3>
