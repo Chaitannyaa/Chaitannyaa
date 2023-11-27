@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitannyaa&label=Profile%20views&color=0e75b6&style=flat" alt="chaitannyaa" /> </p>
 
-- 🌱 I’m currently exploring **Cloud and DevOps Engineering**
+- 🌱 I’m exploring **Cloud and DevOps Engineering**
 
 - 📝 I regularly write articles on [Hashnode/My-Cloud & DevOps-Articles](https://chaitannyaa.hashnode.dev/)
 
